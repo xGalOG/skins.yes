@@ -2,8 +2,8 @@
 
 # These are the skins Im usually using
 
-# [Sporky skin](https://spork.s-ul.eu/j1107EWB.png)
-![](https://imgur.com/vHfiiXN)
+# [Sporky skin](https://spork.s-ul.eu/j1107EWB)
+![](https://imgur.com/vHfiiXN.png)
 
 # [vv_idke_trail](https://mega.nz/#!bGQzACoQ!JEIJg6SP2LzqLwZSIbeZByGqtkulo8MycswtRqix-l0)
 ![](https://imgur.com/nnDCRXq)
