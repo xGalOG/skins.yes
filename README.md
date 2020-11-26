@@ -2,7 +2,7 @@
 
 # These are the skins Im usually using
 
-# [GalogXilvertov](https://mega.nz/file/lxczSYpS#Czs76QguPXVrbo6F8DW1k4QSRLT0RNsrpZAiCxykpI8)
+# [GalogXilvertov](https://mega.nz/file/A40SibYL#HdUjeM3BjIACUWDrom5XfQ6stRG7r-tux_Zd8cdo7MA)
 ![](https://imgur.com/0MM9NA0.png)
 
 # [Sporky skin](https://spork.s-ul.eu/j1107EWB)
